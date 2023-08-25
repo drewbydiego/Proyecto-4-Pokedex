@@ -117,6 +117,10 @@ body {
   }
   #btn-refresh {
     margin-left: 10px;
+    margin-bottom: 0;
+  }
+  .title {
+    margin-bottom: 5px;
   }
 }
 
