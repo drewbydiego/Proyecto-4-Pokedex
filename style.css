@@ -35,11 +35,12 @@ body {
   color: black;
 }
 .pokemon-block p {
-  margin-bottom: 0;
   width: 90%;
   text-align: center;
 }
 .name {
+  margin-bottom: 0;
+  margin-top: 0;
   background: rgb(2, 0, 36);
   background: linear-gradient(
     90deg,
@@ -59,6 +60,9 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+}
+.title {
+  margin-top: 0;
 }
 .title-container h1 {
   text-decoration: underline;
